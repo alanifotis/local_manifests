@@ -5,7 +5,6 @@
   <project name="LineageOS/android_hardware_sony_timekeep" path="hardware/sony/timekeep" remote="github" />
   <project name="alanifotis/android_device_samsung_trlte" path="device/samsung/trlte" remote="github" />
   <project name="alanifotis/android_device_samsung_trlte-common" path="device/samsung/trlte-common" remote="github" />
-  <project name="alanifotis/android_frameworks_av" path="frameworks/av" remote="github" />
   <project name="alanifotis/android_kernel_samsung_apq8084" path="kernel/samsung/apq8084" remote="github" />
   <project name="alanifotis/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
 </manifest>
